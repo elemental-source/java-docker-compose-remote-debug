@@ -1,0 +1,17 @@
+version: '2'
+services:
+  app:
+    image: java-docker-compose-remote-debug
+    ports:
+      - "8080:8080"
+      - "5005:5005"
+    depends_on:
+      - postgres
+  postgres:
+    image: postgres
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_USER=postgres
+      - POSTGRES_DB=test

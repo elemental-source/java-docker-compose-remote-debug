@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://docker_postgres_1:5432/test
+    username: postgres
+    password: password
+
+  jpa:
+    hibernate:
+      ddl-auto: create

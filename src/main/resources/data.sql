@@ -1,0 +1,21 @@
+
+INSERT INTO x_user (name, email, age, active) VALUES ('renan',   'renan@email.com',      32,    false);
+INSERT INTO x_user (name, email, age, active) VALUES ('joao',    'joao@email.com',       11,    true);
+INSERT INTO x_user (name, email, age, active) VALUES ('paulo',   'paulo@email.com',      20,    false);
+INSERT INTO x_user (name, email, age, active) VALUES ('dhalsin', 'dhalsin@vivareal.com', 26,    false);
+INSERT INTO x_user (name, email, age, active) VALUES ('paixao',  'paixao@vivareal.com',  23,    false);
+INSERT INTO x_user (name, email, age, active) VALUES ('cris',    'cris@vivareal.com',    40,    false);
+INSERT INTO x_user (name, email, age, active) VALUES ('andre',   'andre@vivareal.com',   35,    false);
+INSERT INTO x_user (name, email, age, active) VALUES ('renato',  'renato@vivareal.com',  32,    false);
+INSERT INTO x_user (name, email, age, active) VALUES ('maria',   'maria@email.com',      24,    true);
+INSERT INTO x_user (name, email, age, active) VALUES ('mariana', 'mariana@email.com',    5,     false);
+INSERT INTO x_user (name, email, age, active) VALUES ('flor',    'flor@email.com',       1,     false);
+INSERT INTO x_user (name, email, age, active) VALUES ('xuxa',    'xuxa@xuxa.com',        50,    false);
+INSERT INTO x_user (name, email, age, active) VALUES ('steve',   'steve@apple.com',      52,    false);
+INSERT INTO x_user (name, email, age, active) VALUES ('mark',    'mark@facebook.com',    30,    true);
+INSERT INTO x_user (name, email, age, active) VALUES ('bill',    'bill@microsoft.com',   60,    false);
+INSERT INTO x_user (name, email, age, active) VALUES ('julio',   'julio@email.com',      12,    false);
+INSERT INTO x_user (name, email, age, active) VALUES ('allan',   'allan@email.com',      2,     false);
+INSERT INTO x_user (name, email, age, active) VALUES ('breno',   'breno@email.com',      22,    false);
+INSERT INTO x_user (name, email, age, active) VALUES ('fillip',  'fillip@email.com',     15,    false);
+INSERT INTO x_user (name, email, age, active) VALUES ('zennon',  'zennon@email.com',     88,    true);
