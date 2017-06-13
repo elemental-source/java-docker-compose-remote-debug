@@ -12,3 +12,23 @@
 ./gradlew clean build && docker build -f docker/Dockerfile -t java-docker-compose-remote-debug . && docker-compose -f docker/docker-compose.yml up
 
 ```
+
+## Debug
+
+After containers startup
+
+In Intellij 
+
+Run/Edit Configurations...
+
+Click Add (+)
+
+Select "Remote"
+
+Type name
+
+Apply
+
+Click Debug Button 
+
+![Idea](idea.png)
